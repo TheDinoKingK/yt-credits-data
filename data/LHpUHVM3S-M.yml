@@ -1,25 +1,26 @@
 title: Absolute Garbage by Bli - Raw Run - Geometry Dash
-# music credits
 music:
   - title: Warzone
     artist: Boom Kitty
-    links: 
+    links:
       - platform: youtube
-        url: https://www.youtube.com/watch?v=0FWigSmSXHw
+        url: 'https://www.youtube.com/watch?v=0FWigSmSXHw'
       - platform: spotify
-        url: https://open.spotify.com/track/1NetcAb19PwpFHQM77kMBZ?si=7e25c6b9e7b84c8e
+        url: >-
+          https://open.spotify.com/track/1NetcAb19PwpFHQM77kMBZ?si=7e25c6b9e7b84c8e
       - platform: soundcloud
-        urL: https://soundcloud.com/boomkitty/warzone
+        urL: 'https://soundcloud.com/boomkitty/warzone'
       - platform: newgrounds
-        url: https://www.newgrounds.com/audio/listen/859847
-    timestamp: 0:00
+        url: 'https://www.newgrounds.com/audio/listen/859847'
+    timestamp: '0:00'
   - title: Push and Shove
     artist: Pedro Silva
     links:
       - platform: youtube
-        url: https://www.youtube.com/watch?v=tnyNKmndmRg
+        url: 'https://www.youtube.com/watch?v=tnyNKmndmRg'
       - platform: spotify
-        url: https://open.spotify.com/track/48wrEgLF4772zDxewZwoKr?si=60caedaef3ca405e
+        url: >-
+          https://open.spotify.com/track/48wrEgLF4772zDxewZwoKr?si=60caedaef3ca405e
       - platform: bandcamp
-        url: https://omori.bandcamp.com/track/push-shove
-    timestamp: 1:13
+        url: 'https://omori.bandcamp.com/track/push-shove'
+    timestamp: '1:13'
