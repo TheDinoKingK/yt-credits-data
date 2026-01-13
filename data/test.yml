@@ -1,4 +1,4 @@
-title: The Vigilante! (No Hit)
+title: The testing data! (for testing)
 featured:
   - name: Joshua
   - name: Sammy Mayo
@@ -14,6 +14,22 @@ featured:
         url: 'https://www.twitch.tv/thats_a_goodquestion/'
       - platform: youtube
         url: 'https://www.youtube.com/u/undertale/'
+contributed:
+  - name: Nathaniel B
+  - name: Morgan Fizzwater
+    note: Made custom music for the fight scene!
+  - name: Stcubing
+    note: 'Made some cool mo-graphs for the video!'
+    links:
+      - platform: website
+        url: 'https://stcubing.com'
+  - name: cool guy
+    note: did cool stuff
+    links:
+      - platform: twitch
+        url: 'https://www.twitch.tv/cool/'
+      - platform: youtube
+        url: 'https://www.youtube.com/@undertale/'
 
 assets:
   - title: dino's portrait drawing
